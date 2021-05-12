@@ -1,6 +1,6 @@
 # vaccine-availability-notifier
 
-For any given district, get notified on a telegram channel when covid vaccine is available. The notifications are configurable for certain vaccine types or age groups as well, depending on use case. Different telegram channels can be notified for different use case (district - vaccine - age group combinations).
+For any given district, get notified on a telegram channel when covid vaccine is available. The notifications are configurable for certain vaccine types or age groups as well. Different telegram channels can be notified for different use case (district - vaccine - age group combinations). Vaccine type and age groups are not mandatory parameters.
 
 How to setup?
 * Get a telegram bot and set the token as env called `TELEGRAM_BOT_TOKEN`.
