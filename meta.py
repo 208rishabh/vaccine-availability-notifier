@@ -37,3 +37,6 @@ def refresh_meta():
         os.mkdir(DATA_FOLDER)
     get_states()
     get_districts()
+
+
+refresh_meta()
