@@ -19,11 +19,19 @@ notification_details = [
         'chat_id': '-1001448650253',
         'vaccine_type': COVAXIN,
         'min_age': 45
-    },
-    {
+    }
+    ,{
         'state_id': 4,
         'district_id': 45,
         'chat_id': '-1001448650253',
-        'min_age': 18
+        'min_age': 45,
+        'vaccine_type': COVISHIELD
+    }
+    ,{
+        'state_id': 4,
+        'district_id': 56,
+        'chat_id': '-1001448650253',
+        'min_age': 45,
+        'vaccine_type': COVAXIN
     }
 ]
